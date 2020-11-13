@@ -1,7 +1,24 @@
-# magento2-layerednav
-# Navigation Layered Ajax
-# rerequisites
+# Magento2 Layered Navigation
 
+For an e-commerce website, Product navigation that simplifies the customer search process is essential. If a customer has trouble finding the product, they will abandon the shopping cart and you will lose a lead. 
+
+Magento Layered Navigation extension by Alothemes integrated Axaj technology that helps customers flexibly and easily navigate products without reloading pages. This extension allows customers to find the products they need exactly, quickly and helping to increase customer experience in your Magento store.
+
+## What is a Magento 2 Layered Navigation?
+
+Basically, Layered Navigation extension is a feature that makes it easy to find products based on category, price range, or any other available attribute. You can customize the product attributes, color and size to match your store. This extension equips your website with very flexible vertical and horizontal navigation, provides a richer user-experience for your customer and is particularly well-suited for stores that have a lot of variable products or products with a number of attributes.
+
+In the process of researching customer behavior on the Magento website, Alothemes has upgraded the layered navigation utility with many outstanding features:
+
+* Fully Responsive & Mobile Optimized
+* Integrated Ajax to quickly filter products without reloading pages.
+* Show price attribute slider
+* Professional and user-friendly interface
+* Simplify the customer search process
+* Sticky Sidebar helps the menu bar to remain steady when scrolling the product
+* Multil select in one filler lelp customers find products quickly & accurately
+
+## How to install Layered Navigation for Magento
 Before you continue, ensure you meet the following requirements:
 
   * You have installed magento2
